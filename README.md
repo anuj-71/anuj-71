@@ -1,24 +1,15 @@
 <div align="center">
 
-  <!-- ========================================== -->
-  <!-- 1. HERO BANNER (Direct Raw GitHub Link)   -->
-  <!-- ========================================== -->
-  <img src="https://raw.githubusercontent.com/anuj-71/anuj-71/main/banner.jpg" width="100%" alt="Anuj Agarwal - Workspace Banner" />
+  <!-- ======================================================== -->
+  <!-- 1. HERO BANNER (Native Relative Link - 100% Reliable)   -->
+  <!-- ======================================================== -->
+  <img src="banner.jpg" width="100%" alt="Anuj Agarwal - Workspace Banner" />
 
   <br/><br/>
 
-  <!-- ========================================== -->
-  <!-- 2. SUBTLE ANIMATED TYPING TAGLINE          -->
-  <!-- ========================================== -->
-  <a href="https://github.com/anuj-71">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Builder;Building+Intelligent+Multi-Agent+Systems;Shipping+at+the+intersection+of+AI+%26+Human+Impact" alt="Typing Tagline" />
-  </a>
-
-  <br/><br/>
-
-  <!-- ========================================== -->
-  <!-- 3. EDITABLE QUOTE PLACEHOLDER              -->
-  <!-- ========================================== -->
+  <!-- ======================================================== -->
+  <!-- 2. EDITABLE QUOTE PLACEHOLDER                            -->
+  <!-- ======================================================== -->
   <sub><i>“ Build things that solve real problems, not just look good. ”</i></sub>
 
 </div>
@@ -77,63 +68,3 @@
   <img src="https://img.shields.io/badge/Azure-161b22?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
   <img src="https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
-
-<br/>
-
----
-
-### 📊 Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj-71&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=238636" alt="Anuj's GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=anuj-71&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=238636&fire=238636&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-71&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="145" />
-</div>
-
-<br/>
-
----
-
-### 🌐 Focus Areas & Credentials
-
-<table>
-  <tr>
-    <td width="35%" valign="top">
-      <h4>📌 Core Interests</h4>
-      <ul>
-        <li><b>Artificial Intelligence:</b> Multi-agent architectures & LLMs</li>
-        <li><b>System Design:</b> Scalable, modular full-stack systems</li>
-        <li><b>Product Engineering:</b> Tools solving real human friction</li>
-        <li><b>Open Source:</b> Contributing & building in public</li>
-        <li><b>Endurance:</b> Running, problem solving, fitness</li>
-      </ul>
-    </td>
-    <td width="35%" valign="top">
-      <h4>📜 Certifications</h4>
-      <ul>
-        <li>🛡️ <b>Microsoft Azure AI Fundamentals</b></li>
-        <li>🧠 <b>Fundamentals of Machine Learning</b></li>
-        <li>☁️ <b>AWS Cloud Practitioner Essentials</b></li>
-      </ul>
-    </td>
-    <td width="30%" valign="top">
-      <h4>💡 Philosophy</h4>
-      <br/>
-      <p align="center">
-        <i>“ A small step of code today, a better world tomorrow. ”</i>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <sub>Engineered with precision for <b>anuj-71</b> · Keeping code clean, systems resilient, and ideas impactful.</sub>
-</div>
