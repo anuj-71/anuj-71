@@ -10,9 +10,9 @@
 
 </div>
 <br/>
----
-## My favorite tools and technologies ⚙️
-> Tools and technologies that I have worked with and am interested in
+
+
+<b>Tools and technologies that I have worked with and am interested in</b>
 <div align="center">
 <table align="center">
   <!-- Row 1: Core Languages & Frontend -->
