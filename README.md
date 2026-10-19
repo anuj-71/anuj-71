@@ -7,9 +7,7 @@
   <!-- ======================================================== -->
   <!-- 2. ANIMATED TYPING TAGLINE                               -->
   <!-- ======================================================== -->
-  <a href="https://github.com/anuj-71">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Build+things+that+solve+real+problems%2C+not+just+look+good.;AI+%2F+Machine+Learning+%26+Full+Stack+Developer;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+
 </div>
 <br/>
 ---
@@ -138,8 +136,3 @@
 </div>
 <br/>
 ---
-
-<br/>
-<div align="center">
-  <sub><i>“ Build things that solve real problems, not just look good. ”</i></sub>
-</div>
