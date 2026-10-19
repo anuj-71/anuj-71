@@ -138,20 +138,7 @@
 </div>
 <br/>
 ---
-## GitHub Stats 📊
-<details open>
-  <summary><b>Click to toggle GitHub Metrics 💻</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/anuj-71">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuj-71&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anuj's GitHub Stats" height="150" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/anuj-71">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-71&theme=tokyonight&hide_border=true&background=0D1117" alt="Anuj's GitHub Streak" height="150" />
-    </a>
-  </div>
-</details>
+
 <br/>
 <div align="center">
   <sub><i>“ Build things that solve real problems, not just look good. ”</i></sub>
